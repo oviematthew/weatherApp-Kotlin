@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">matthewEnamuotorMidterm</string>
+    <string name="my_name">Matthew Ovie Enamuotor</string>
+    <string name="edit_TextValue">Toronto</string>
+    <string name="weather_title">Weather Report</string>
+    <string name="city_name">City Name</string>
+    <string name="current_temp">Current Temperature: </string>
+    <string name="max_temp">Todays Maximum Temperature: </string>
+    <string name="mini_temp">Todays Minimum Temperature: </string>
+    <string name="precipitation_prob">Probability Of Precipitation: </string>
+    <string name="today_description">Description: </string>
+    <string name="fetch_btn">Fetch Weather </string>
+
+</resources>
